@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=onceagaindisableme;AccountKey=Eabynpj4phfbocCib6cK/e1lH+5QdROKtKU07coKCUr98I8xjAsDQ61kbb3+AdfILh6mdgH4jDTJ+AStCXJC1Q==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "AZURE_CLIENT_ID": "054f3920-1bcf-48f9-9065-a86d520eb3cc",
+    "AZURE_TENANT_ID": "944306eb-3dfa-433c-845b-f3c2513783b1",
+    "AZURE_CLIENT_SECRET": "aY48Q~jPd6hAeA12BQht43eWG4-7fym0tcXKhcpF",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=onceagaindisableme;AccountKey=Eabynpj4phfbocCib6cK/e1lH+5QdROKtKU07coKCUr98I8xjAsDQ61kbb3+AdfILh6mdgH4jDTJ+AStCXJC1Q==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "onceagaindisableme3d8c5c",
+    "WEBSITE_RUN_FROM_PACKAGE": "1",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "4aafdc41-d29c-4111-9f03-3ae4ac29ccbb",
+    "MICROSOFT_PROVIDER_AUTHENTICATION_SECRET": "iUI8Q~W4CcJlDxZjrWebRMCA4E3ceL1c4.qDBapl",
+    "AzureWebJobs.HttpExample.Disabled": "0",
+    "ACCOUNT_KEY": "AJgjif1LWdJByukP9lmvkU9GwK9MdNYIkSDMzc2sCnZcA6cqdhzIXkDGpXJmIvbvsH6LzXNeEkxcACDbOsgz2A==",
+    "ACCOUNT_HOST": "https://bigtriggerdata.documents.azure.com:443/"
+  }
+}
