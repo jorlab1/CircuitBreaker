@@ -50,11 +50,9 @@ public class fn2 {
             .withDefaultSubscription();
 
         // grab target function app (disabling is not restricted to functions in same app or even resource group (as long as permissions allow))
-        // String functionAppId = "/subscriptions/b2e98ed1-8cc7-40b3-9b71-3aecf12eaaeb/resourceGroups/onceagaindisableme/providers/Microsoft.Web/sites/onceAgainDisableMe";
         FunctionApp functionApp = azureResourceManager.functionApps().getById(functionAppID);
 
         // define target function and disable it
-        //String functionName = "HttpExample";
         functionApp.update().withAppSetting(("AzureWebJobs."+functionName+".Disabled"),disabled).apply();
 
         if (msgBody == null) {
